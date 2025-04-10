@@ -218,7 +218,6 @@ Automatización del despliegue para lograr actualizaciones rápidas y eficientes
 **Gestión y Monitoreo:**  
 Implementar herramientas de monitoreo que permitan rastrear el rendimiento y analizar el comportamiento de los usuarios.
 
-![Image](https://github.com/user-attachments/assets/d59545d3-f71b-47b7-81e6-c2c63b4c42c9)
 
 ---
 
