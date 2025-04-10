@@ -11,6 +11,7 @@ Bienvenido/a al repositorio de **Catador a la Carta**. Este proyecto de carácte
   - 1. Reseñas de Restaurantes
   - 2. Recomendaciones de Restaurantes
   - 3. Detalles de Restaurantes
+- Bloque 3 - Diseño (UI/UX)
 - Bloque 4 - Implementación
 - Bloque 5 - Pruebas
   - Casos de Prueba Funcionales
