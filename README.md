@@ -6,17 +6,17 @@ Bienvenido/a al repositorio de **Catador a la Carta**. Este proyecto de carácte
 
 ## Índice 📑
 
-- [Bloque 1 - Requisitos](#bloque-1---requisitos)
-- [Bloque 2 - Análisis](#bloque-2---análisis)
-  - [1. Reseñas de Restaurantes](#1-reseñas-de-restaurantes)
-  - [2. Recomendaciones de Restaurantes](#2-recomendaciones-de-restaurantes)
-  - [3. Detalles de Restaurantes](#3-detalles-de-restaurantes)
-- [Bloque 4 - Implementación](#bloque-4---implementación)
-- [Bloque 5 - Pruebas](#bloque-5---pruebas)
-  - [Casos de Prueba Funcionales](#casos-de-prueba-funcionales)
-  - [Errores Posibles Anticipados](#errores-posibles-anticipados)
-- [Bloque 6 - Despliegue y Mantenimiento](#bloque-6---despliegue-y-mantenimiento)
-- [Mejoras Futuras](#mejoras-futuras)
+- Bloque 1 - Requisitos
+- Bloque 2 - Análisis
+  - 1. Reseñas de Restaurantes
+  - 2. Recomendaciones de Restaurantes
+  - 3. Detalles de Restaurantes
+- Bloque 4 - Implementación
+- Bloque 5 - Pruebas
+  - Casos de Prueba Funcionales
+  - Errores Posibles Anticipados
+- Bloque 6 - Despliegue y Mantenimiento
+- Mejoras Futuras
 
 ---
 
