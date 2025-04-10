@@ -119,7 +119,7 @@ La información puede desactualizarse rápidamente y depende de fuentes externas
    - Validar que todos los elementos se reorganicen sin perder funcionalidad.
 
 ---
-## Pagina de inicio
+## Diagrama de flujo
 
 ![Image](https://github.com/user-attachments/assets/744e1a11-1810-406d-b713-09a2f50180fe)
 
@@ -131,7 +131,7 @@ La información puede desactualizarse rápidamente y depende de fuentes externas
 
 ---
 
-## Catalogo de carta
+## Pagina de inicio
 
 ![Image](https://github.com/user-attachments/assets/9022d035-9db9-4ed1-870b-47f2ae3ee80b)
 
