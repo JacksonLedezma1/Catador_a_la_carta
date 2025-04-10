@@ -83,6 +83,71 @@ La información puede desactualizarse rápidamente y depende de fuentes externas
 
 ---
 
+## Bloque 3 - Diseño (UI/UX)
+
+### Objetivos del Diseño
+
+- 🧩 Mantener una **identidad visual consistente** en toda la aplicación.
+- 📱 Garantizar una **experiencia de usuario (UX) fluida** e intuitiva.
+- 🎯 Enfocar el diseño en la **accesibilidad**, la claridad y la simplicidad visual.
+- 🖼️ Diseñar con base en los **principios mobile-first** y responsividad.
+
+---
+
+### Actividades Clave del Diseñador
+
+1. **Diseño de interfaz (UI)**
+   - Definir paleta de colores, tipografía y componentes visuales reutilizables.
+   - Crear maquetas de alta fidelidad para vistas clave como:
+     - Página principal
+     - Vista de restaurante
+     - Vista de recomendaciones
+     - Formulario de reseña
+
+2. **Prototipado UX**
+   - Crear flujos de navegación interactivos.
+   - Definir jerarquía visual y estructura de información.
+   - Validar rutas lógicas entre pantallas según tareas del usuario.
+
+3. **Testeo de experiencia**
+   - Realizar pruebas de usabilidad con usuarios reales o ficticios.
+   - Observar puntos de fricción en navegación, escaneabilidad y clics.
+   - Ajustar elementos visuales según retroalimentación.
+
+4. **Diseño adaptable y responsivo**
+   - Diseñar para diferentes tamaños de pantalla: móvil, tablet, escritorio.
+   - Validar que todos los elementos se reorganicen sin perder funcionalidad.
+
+---
+## Pagina de inicio
+
+![Image](https://github.com/user-attachments/assets/744e1a11-1810-406d-b713-09a2f50180fe)
+
+---
+
+## Diseño de restaurante
+
+![Image](https://github.com/user-attachments/assets/3acdc269-b24e-4ef5-a87e-9dc6b3aac458)
+
+---
+
+## Catalogo de carta
+
+![Image](https://github.com/user-attachments/assets/9022d035-9db9-4ed1-870b-47f2ae3ee80b)
+
+---
+
+### Herramientas sugeridas 🛠️
+
+- Figma / Adobe XD: Para diseño de interfaz y prototipado.
+- Zeplin / Avocode: Para pasar diseños al equipo de desarrollo.
+- Coolors / Google Fonts: Para paletas y tipografía.
+- Lighthouse / Wave: Para pruebas de accesibilidad web.
+
+---
+
+*Este bloque es clave para garantizar que la app no solo funcione bien, sino que también se vea y se sienta profesional, moderna y agradable para el usuario final.* ✨
+
 ## Bloque 4 - Implementación 🚀
 
 - **Mostrar el Top 5 de Restaurantes:**  
