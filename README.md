@@ -88,6 +88,8 @@ La información puede desactualizarse rápidamente y depende de fuentes externas
 - **Mostrar el Top 5 de Restaurantes:**  
   Se ordena una lista de restaurantes basada en parámetros definidos (por ejemplo, reseñas) y se retorna el top 5.
 
+  ![Image](https://github.com/user-attachments/assets/e52a8d37-a3da-45e4-aaec-9e1a99ee2280)
+
 ---
 
 ## Bloque 5 - Pruebas 🧪
@@ -150,6 +152,8 @@ Automatización del despliegue para lograr actualizaciones rápidas y eficientes
 
 **Gestión y Monitoreo:**  
 Implementar herramientas de monitoreo que permitan rastrear el rendimiento y analizar el comportamiento de los usuarios.
+
+![Image](https://github.com/user-attachments/assets/d59545d3-f71b-47b7-81e6-c2c63b4c42c9)
 
 ---
 
